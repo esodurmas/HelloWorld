@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ESAT\\source\\repos\\first app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9994321-69A2-4754-ABD1-44887367B97C}|..\\ATMSwitchCase\\ATMSwitchCase.csproj|c:\\users\\esat\\source\\repos\\atmswitchcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A2C487-7B11-405B-A190-A8698ADD4D5D}|..\\ConsoleApp1\\Decision.csproj|c:\\users\\esat\\source\\repos\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1C2F67-682B-473A-BB5C-B376AD621DE6}|first app.csproj|C:\\Users\\ESAT\\source\\repos\\first app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1C2F67-682B-473A-BB5C-B376AD621DE6}|first app.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DAA443-06E0-4BED-B11D-D4F3B012CD88}|..\\MonthOfSeasons\\MonthOfSeasons.csproj|c:\\users\\esat\\source\\repos\\monthofseasons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCF0DC9-7366-4501-8FDF-832BF1830E91}|..\\SwitchCaseExample\\SwitchCaseExample.csproj|c:\\users\\esat\\source\\repos\\switchcaseexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D849F9-6536-49A2-82A7-7E3D515AF653}|..\\ProgramsDependOnChoice\\ProgramsDependOnChoice.csproj|c:\\users\\esat\\source\\repos\\programsdependonchoice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A898F9C4-8092-4191-9B83-74D2463E29C1}|..\\NewProjects\\NewProjects.csproj|c:\\users\\esat\\source\\repos\\newprojects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4206F7D-C652-4418-9DD2-1E6F5B5A2E35}|..\\data types\\data types.csproj|c:\\users\\esat\\source\\repos\\data types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ESAT\\source\\repos\\ATMSwitchCase\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ATMSwitchCase\\Program.cs",
+              "ToolTip": "C:\\Users\\ESAT\\source\\repos\\ATMSwitchCase\\Program.cs",
+              "RelativeToolTip": "..\\ATMSwitchCase\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T10:07:14.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ESAT\\source\\repos\\MonthOfSeasons\\Program.cs",
+              "RelativeDocumentMoniker": "..\\MonthOfSeasons\\Program.cs",
+              "ToolTip": "C:\\Users\\ESAT\\source\\repos\\MonthOfSeasons\\Program.cs",
+              "RelativeToolTip": "..\\MonthOfSeasons\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T15:45:18.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ESAT\\source\\repos\\SwitchCaseExample\\Program.cs",
+              "RelativeDocumentMoniker": "..\\SwitchCaseExample\\Program.cs",
+              "ToolTip": "C:\\Users\\ESAT\\source\\repos\\SwitchCaseExample\\Program.cs",
+              "RelativeToolTip": "..\\SwitchCaseExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T15:35:03.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ESAT\\source\\repos\\ProgramsDependOnChoice\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ProgramsDependOnChoice\\Program.cs",
+              "ToolTip": "C:\\Users\\ESAT\\source\\repos\\ProgramsDependOnChoice\\Program.cs",
+              "RelativeToolTip": "..\\ProgramsDependOnChoice\\Program.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAHsAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:16:29.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ESAT\\source\\repos\\first app\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ESAT\\source\\repos\\first app\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T16:07:07.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ESAT\\source\\repos\\NewProjects\\Program.cs",
+              "RelativeDocumentMoniker": "..\\NewProjects\\Program.cs",
+              "ToolTip": "C:\\Users\\ESAT\\source\\repos\\NewProjects\\Program.cs",
+              "RelativeToolTip": "..\\NewProjects\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:07:16.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ESAT\\source\\repos\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\ESAT\\source\\repos\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T11:43:39.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ESAT\\source\\repos\\data types\\Program.cs",
+              "RelativeDocumentMoniker": "..\\data types\\Program.cs",
+              "ToolTip": "C:\\Users\\ESAT\\source\\repos\\data types\\Program.cs",
+              "RelativeToolTip": "..\\data types\\Program.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAiwJ0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T11:39:48.733Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
